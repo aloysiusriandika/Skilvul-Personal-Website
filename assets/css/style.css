@@ -330,9 +330,9 @@ html {
  
  .container-blog .cardblog  {
     width: 400px;
-    height: 500px;
+    height: 525x;
     background-color: #212529;
-    margin: 20px;
+    margin: 25px 20px;
     border-radius: 10px;
     overflow: hidden;
     box-shadow: 4px 3px 8px #495057;
